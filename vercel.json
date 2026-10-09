@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/metrics.py": {
+      "maxDuration": 10
+    }
+  }
+}
